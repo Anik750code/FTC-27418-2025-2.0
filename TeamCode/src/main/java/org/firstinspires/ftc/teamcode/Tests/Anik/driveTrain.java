@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.Tests.Anik.Mecanum;
+package org.firstinspires.ftc.teamcode.Tests.Anik;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
