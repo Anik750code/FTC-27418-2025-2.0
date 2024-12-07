@@ -4,8 +4,8 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-@TeleOp(name = "driveTrain")
-public class driveTrain extends OpMode {
+@TeleOp(name = "anik-mecanum")
+public class Mecanum extends OpMode {
     public DcMotor frontLeft, frontRight, backLeft, backRight;
 
     @Override
